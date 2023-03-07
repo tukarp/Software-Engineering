@@ -1,2 +1,2 @@
-*._ml_ linguist-language=UML
-*.uml linguist-language=UML
+*._ml_ linguist-language=StarUML
+*.uml linguist-language=StarUML
