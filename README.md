@@ -2,12 +2,16 @@
 
 ## Laboratoria
 
-### [Lab 01](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2001)
+### Laboratorium 1
 
+- [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2001)
 - [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001._ml_)
 
-### [Lab 02](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2002)
+### Laboratorium 2
 
+![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Model.jpg)
+
+- [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2002)
 - [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Lab02.~ml)
 - [Ssak.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Ssak.h)
 - [Ssak.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Ssak.cpp)
