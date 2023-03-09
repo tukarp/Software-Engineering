@@ -4,8 +4,10 @@
 
 ### Laboratorium 1
 
+![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001/Model.jpg)
+
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2001)
-- [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001._ml_)
+- [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001/Lab%2001._ml_)
 
 ### Laboratorium 2
 
