@@ -12,26 +12,27 @@
 
 #include "Jamnik.h"
 
-Jamnik::Jamnik(string imie, string kolorSiersci) {
-    this.imie = imie;
-    this.kolorSiersci = kolorSiersci;
+Jamnik::Jamnik(std::string przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter,
+               std::string imie, std::string kolorSiersci) : Pies(0, 0, 0, 0, przeznaczenie, umieSztuczki, dlugowlosy,
+                                                                  charakter) {
+    this->imie = imie;
+    this->kolorSiersci = kolorSiersci;
 }
 
 Jamnik::~Jamnik() {}
 
-void Jamnik::setImie(string imie) {
-    this.imie = imie;
+void Jamnik::setImie(std::string imie) {
+    this->imie = imie;
 }
 
-void Jamnik::setKolorSiersci(string kolorSiersci) {
-    this.kolorSiersci = kolorSiersci;
+void Jamnik::setKolorSiersci(std::string kolorSiersci) {
+    this->kolorSiersci = kolorSiersci;
 }
 
-string Jamnik::getImie() {
+std::string Jamnik::getImie() {
     return imie;
 }
 
-string Jamnik::getKolorSiersci() {
+std::string Jamnik::getKolorSiersci() {
     return kolorSiersci;
 }
-
