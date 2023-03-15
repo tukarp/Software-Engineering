@@ -18,7 +18,8 @@
 
 class Pies : public Ssak {
 public:
-	Pies(std::string przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter);
+	Pies(int umaszczenie, float wzrost, float waga, int wiek, std::string przeznaczenie, bool umieSztuczki,
+         bool dlugowlosy, std::string charakter);
 	void setPrzeznaczenie(std::string przeznaczenie);
 	void setUmieSztuczki(bool umieSztuczki);
 	void setDlugowlosy(bool dlugowlosy);
