@@ -12,7 +12,8 @@
 
 #include "Pies.h"
 
-Pies::Pies(std::string przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter) {
+Pies::Pies(int umaszczenie, float wzrost, float waga, int wiek, std::string przeznaczenie, bool umieSztuczki,
+           bool dlugowlosy, std::string charakter) : Ssak(umaszczenie, wzrost, waga, wiek) {
     this->przeznaczenie = przeznaczenie;
     this->umieSztuczki = umieSztuczki;
     this->dlugowlosy = dlugowlosy;
