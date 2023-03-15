@@ -13,28 +13,28 @@
 #include "Ssak.h"
 
 Ssak::Ssak(int umaszczenie, float wzrost, float waga, int wiek) {
-    this.umaszczenie = umaszczenie;
-    this.wzrost = wzrost;
-    this.waga = waga;
-    this.wiek = wiek;
+    this->umaszczenie = umaszczenie;
+    this->wzrost = wzrost;
+    this->waga = waga;
+    this->wiek = wiek;
 }
 
 Ssak::~Ssak() {}
 
 void Ssak::setUmaszczenie(int umaszczenie) {
-    this.umaszczenie = umaszczenie;
+    this->umaszczenie = umaszczenie;
 }
 
 void Ssak::setWzrost(float wzrost) {
-    this.wzrost = wzrost;
+    this->wzrost = wzrost;
 }
 
 void Ssak::setWaga(float waga) {
-    this.waga = waga;
+    this->waga = waga;
 }
 
 void Ssak::setWiek(int wiek) {
-    this.wiek = wiek;
+    this->wiek = wiek;
 }
 
 int Ssak::getUmaszczenie() {
