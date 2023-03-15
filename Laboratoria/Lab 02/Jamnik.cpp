@@ -12,9 +12,9 @@
 
 #include "Jamnik.h"
 
-Jamnik::Jamnik(std::string przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter,
-               std::string imie, std::string kolorSiersci) :Pies(getUmaszczenie(), getWzrost(),
-                                                                 getWaga(), getWiek(), przeznaczenie, umieSztuczki, dlugowlosy, charakter) {
+Jamnik::Jamnik(int przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter,
+               std::string imie, std::string kolorSiersci) : Pies(getUmaszczenie(), getWzrost(),getWaga(), getWaga(),
+                                                                  przeznaczenie, umieSztuczki, dlugowlosy, charakter) {
     this->imie = imie;
     this->kolorSiersci = kolorSiersci;
 }
