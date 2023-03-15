@@ -11,9 +11,9 @@ int main() {
     Ssak ssak = Ssak(2, 30.5, 20.5, 5);
 
     // Wyświetlenie ssaka
-    cout << "----------------------------------------------------\n";
-    cout << "------------------------Ssak------------------------\n";
-    cout << "----------------------------------------------------\n";
+    cout << "-----------------------------------------------------------------------------\n";
+    cout << "-------------------------------------Ssak------------------------------------\n";
+    cout << "-----------------------------------------------------------------------------\n";
     cout << "Umaszczenie: " << ssak.getUmaszczenie() << ", Wzrost: " << ssak.getWzrost() << ", Waga: " << ssak.getWaga() << ", Wiek: " << ssak.getWiek() << "\n";
 
     // Zmienienie parametrów
@@ -40,9 +40,9 @@ int main() {
     pies.setCharakter("Przyjazny");
 
     // Wyświetlenie psa
-    cout << "----------------------------------------------------\n";
-    cout << "------------------------Pies------------------------\n";
-    cout << "----------------------------------------------------\n";
+    cout << "-----------------------------------------------------------------------------\n";
+    cout << "-------------------------------------Pies------------------------------------\n";
+    cout << "-----------------------------------------------------------------------------\n";
     cout << "Umaszczenie: " << pies.getUmaszczenie() << ", Wzrost: " << pies.getWzrost() << ", Waga: " << pies.getWaga() << ", Wiek: " << pies.getWiek() << "\n";
     cout << "Przeznaczenie: " << pies.getPrzeznaczenie() << ", Umie Sztuczki: " << pies.getUmieSztuczki() << ", Dlugowlosy: " << pies.getDlugowlosy() << ", Charakter: " << pies.getCharakter() << "\n";
 
@@ -78,9 +78,9 @@ int main() {
     jamnik.setKolorSiersci("Brazowy");
 
     // Wyświetlenie jamnika
-    cout << "----------------------------------------------------\n";
-    cout << "-----------------------Jamnik-----------------------\n";
-    cout << "----------------------------------------------------\n";
+    cout << "-----------------------------------------------------------------------------\n";
+    cout << "------------------------------------Jamnik-----------------------------------\n";
+    cout << "-----------------------------------------------------------------------------\n";
     cout << "Umaszczenie: " << jamnik.getUmaszczenie() << ", Wzrost: " << jamnik.getWzrost() << ", Waga: " << jamnik.getWaga() << ", Wiek: " << jamnik.getWiek() << "\n";
     cout << "Przeznaczenie: " << jamnik.getPrzeznaczenie() << ", Umie Sztuczki: " << jamnik.getUmieSztuczki() << ", Dlugowlosy: " << jamnik.getDlugowlosy() << ", Charakter: " << jamnik.getCharakter() << "\n";
     cout << "Imie: " << jamnik.getImie() << ", Kolor Siersci: " << jamnik.getKolorSiersci() << "\n";
