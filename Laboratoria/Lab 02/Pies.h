@@ -13,25 +13,26 @@
 #if !defined(_PIES_H)
 #define _PIES_H
 
+#include <string>
 #include "Ssak.h"
 
 class Pies : public Ssak {
 public:
-	Pies(string przeznaczenie, bool umieSztuczki, bool dlugowlosy, string charakter);
-	void setPrzeznaczenie(string przeznaczenie);
+	Pies(std::string przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter);
+	void setPrzeznaczenie(std::string przeznaczenie);
 	void setUmieSztuczki(bool umieSztuczki);
 	void setDlugowlosy(bool dlugowlosy);
-	void setCharakter(string charakter);
-	string getPrzeznaczenie();
+	void setCharakter(std::string charakter);
+    std::string getPrzeznaczenie();
 	bool getUmieSztuczki();
 	bool getDlugowlosy();
-	string getCharakter();
+    std::string getCharakter();
 	~Pies();
 private:
-	string przeznaczenie;
+    std::string przeznaczenie;
 	bool umieSztuczki;
 	bool dlugowlosy;
-	string charakter;
+    std::string charakter;
 };
 
 #endif  //_PIES_H
