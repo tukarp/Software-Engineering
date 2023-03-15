@@ -21,3 +21,5 @@
 - [Pies.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Pies.cpp)
 - [Jamnik.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Jamnik.h)
 - [Jamnik.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Jamnik.cpp)
+- [Zadanie.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Zadanie.cpp)
+- [Wynik](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/result.jpg)
