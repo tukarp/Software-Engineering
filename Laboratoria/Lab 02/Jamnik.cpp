@@ -13,8 +13,7 @@
 #include "Jamnik.h"
 
 Jamnik::Jamnik(std::string przeznaczenie, bool umieSztuczki, bool dlugowlosy, std::string charakter,
-               std::string imie, std::string kolorSiersci) : Pies(0, 0, 0, 0, przeznaczenie, umieSztuczki, dlugowlosy,
-                                                                  charakter) {
+               std::string imie, std::string kolorSiersci) : Pies(0, 0, 0, 0, przeznaczenie, umieSztuczki, dlugowlosy, charakter) {
     this->imie = imie;
     this->kolorSiersci = kolorSiersci;
 }
