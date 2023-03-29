@@ -26,8 +26,6 @@
 
 ### Laboratorium 3
 
-- [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2003)
-
 ### Laboratorium 3a
 
 ![Model 03a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Model%2003a.jpg)
