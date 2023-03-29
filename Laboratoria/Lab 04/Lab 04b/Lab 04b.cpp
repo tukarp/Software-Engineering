@@ -45,6 +45,11 @@ int main() {
     firma.wyswietlPracownika(0);
     firma.wyswietlPracownika(1);
     firma.wyswietlPracownika(2);
-
+    
+    // Usuń pracownikow
+    firma.usunPracownika(0);
+    firma.usunPracownika(1);
+    firma.usunPracownika(2);
+    
     return 0;
 }
