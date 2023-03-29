@@ -20,7 +20,7 @@ int main() {
     // Parametry firmy: nazwa, specjalizacja, latNaRynku, iloscPracownikow, rocznyPrzychod
     Firma firma = Firma("DreamSoft", "Tworzenie oprogramowania", 12, 25, 20000000);
 
-    // Wyświetlenie Przedmiotu
+    // Wyświetlenie firmy
     cout << "---------------------------------------------------------------------------------------\n";
     cout << "-----------------------------------------Firma-----------------------------------------\n";
     cout << "---------------------------------------------------------------------------------------\n";
