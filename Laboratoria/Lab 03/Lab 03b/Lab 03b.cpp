@@ -19,11 +19,11 @@ int main() {
     student.zglosSieNaWykladzie();
     student.zrobPraceDomowa();
 
-    // Utworzenie Przedmioty
+    // Utworzenie przedmiotu
     // Parametry przedmiotu: nazwa, opis, punktyEtcs, prowadzacy, iloscGodzinPracyWlasnej
     Przedmiot przedmiot = Przedmiot("Inzynieria oprogramowania", "Opis inzynierii oprogramowania...", 6.0, "Mikolaj Marciniak", 10);
 
-    // Wyświetlenie Przedmiotu
+    // Wyświetlenie przedmiotu
     cout << "---------------------------------------------------------------------------------------\n";
     cout << "---------------------------------------Przedmiot---------------------------------------\n";
     cout << "---------------------------------------------------------------------------------------\n";
