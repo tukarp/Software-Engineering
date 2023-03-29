@@ -41,7 +41,7 @@ private:
     int latNaRynku;
     int iloscPracownikow;
     int rocznyPrzychod;
-	std::vector<Pracownik *> pracownicy;
+    std::vector<Pracownik *> pracownicy;
 };
 
 #endif  //_FIRMA_H
