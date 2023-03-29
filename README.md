@@ -11,7 +11,7 @@
 
 ### Laboratorium 2
 
-![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Model%2003c.jpg)
+![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Model.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2002)
 - [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Lab02.~ml)
