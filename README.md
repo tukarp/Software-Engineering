@@ -44,7 +44,7 @@
 
 ### Laboratorium 3b
 
-![Model 03b](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Model%2003b.jpg)
+![Model 03b](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Model%2003b.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2003/Lab%2003b)
 - [Model 03b.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Model%2003b.jpg)
