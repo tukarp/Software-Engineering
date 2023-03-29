@@ -62,7 +62,7 @@
 ![Model 03c](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Model%2003c.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2003/Lab%2003c)
-- [Model 03c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Model%2003c.jpg)
+- [Model 03c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Model%2003c.jpg)
 - [Model 03c.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Lab%2003c.uml)
 - [Model 03c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Lab%2003c.~ml)
 - [Pracownik.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Pracownik.h)
