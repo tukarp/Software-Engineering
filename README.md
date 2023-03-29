@@ -1,5 +1,19 @@
 # Inżynieria Oprogramowania
 
+## Spis treści
+
+- [Laboratorium 1](#laboratorium-1)
+- [Laboratorium 2](#laboratorium-2)
+- [Laboratorium 3](#laboratorium-3)
+  - [Laboratorium 3a](#laboratorium-3a)
+  - [Laboratorium 3b](#laboratorium-3b)
+  - [Laboratorium 3c](#laboratorium-3c)
+  - [Laboratorium 3d](#laboratorium-3d)
+- [Laboratorium 4](#laboratorium-4)
+  - [Laboratorium 4a](#laboratorium-4a)
+  - [Laboratorium 4b](#laboratorium-4b)
+  - [Laboratorium 4c](#laboratorium-4c)
+
 ## Laboratoria
 
 ### Laboratorium 1
