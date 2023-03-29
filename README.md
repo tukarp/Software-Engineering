@@ -11,7 +11,7 @@
 
 ### Laboratorium 2
 
-![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Model.jpg)
+![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Model%2003c.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2002)
 - [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Lab02.~ml)
@@ -65,10 +65,10 @@
 - [Model 03c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Model%2003c.jpg)
 - [Model 03c.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Lab%2003c.uml)
 - [Model 03c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Lab%2003c.~ml)
-- []()
-- []()
-- []()
-- []()
+- [Pracownik.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Pracownik.h)
+- [Pracownik.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Pracownik.cpp)
+- [Firma.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Firma.h)
+- [Firma.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Firma.cpp)
 - [Lab 03c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Lab%2003c.cpp)
 - [Wynik 03c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Wynik%2003c.jpg)
 
