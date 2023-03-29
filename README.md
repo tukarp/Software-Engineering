@@ -135,7 +135,7 @@
 
 ### Laboratorium 4c
 
-![Model 04c](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2004c/Model%2004c.jpg)
+![Model 04c](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Model%2004c.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2004/Lab%2004c)
 - [Model 04c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Model%2004c.jpg)
