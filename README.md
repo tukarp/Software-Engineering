@@ -105,16 +105,16 @@
 
 ### Laboratorium 4a
 
-![Model 04a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2004a/Model%2004a.jpg)
+![Model 04a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Model%2004a.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2004/Lab%2004a)
 - [Model 04a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Model%2004a.jpg)
 - [Model 04a.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Lab%2004a.uml)
 - [Model 04a.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Lab%2004a.~ml)
-- [Produkt.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Produkt.h)
-- [Produkt.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Produkt.cpp)
-- [Sklep.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Sklep.h)
-- [Sklep.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Sklep.cpp)
+- [Opiekun.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Opiekun.h)
+- [Opiekun.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Opiekun.cpp)
+- [Kot.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Kot.h)
+- [Kot.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Kot.cpp)
 - [Lab 04a.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Lab%2004a.cpp)
 - [Wynik 04a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Wynik%2004a.jpg)
 
