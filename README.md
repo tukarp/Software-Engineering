@@ -13,6 +13,8 @@
   - [Laboratorium 4a](#laboratorium-4a)
   - [Laboratorium 4b](#laboratorium-4b)
   - [Laboratorium 4c](#laboratorium-4c)
+- [Laboratorium 5](#laboratorium-5)
+  - [Laboratorium 5c](#laboratorium-5c)
 
 ## Laboratoria
 
