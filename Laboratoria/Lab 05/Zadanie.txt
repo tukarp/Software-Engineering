@@ -1,0 +1,6 @@
+Mój diagram przedstawia firmę posiadającą wiele sklepów, gdzie każdy sklep ma swój budynek. 
+Tak jak na przykład duże sklepy spożywcze, czy RTV - każdy z nich jest ulokowany w jakimś budynku. 
+Obiekt sklep nie odnosi się do sieci sklepów tylko do jednego konkretnego sklepu.
+Budynek posiada swoje atrybuty, natomiast jednym z atrybutów sklepu jest wskaźnik na budynek w którym się zanjduję. 
+Firma posiada wektor sklepy i proste metody do zarządzania swoimi sklepami.
+Dodałem również parę prostych metod oprócz mutatorów i akcesorów do diagramu aby pokazać, że przedstawiony model ma rację bytu w prawdziwym świecie.
