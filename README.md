@@ -147,3 +147,22 @@
 - [Sklep.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Sklep.cpp)
 - [Lab 04c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Lab%2004c.cpp)
 - [Wynik 04c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Wynik%2004c.jpg)
+
+### Laboratorium 5
+
+### Laboratorium 5c
+
+![Model 05c](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Model%2005c.jpg)
+
+- [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2005)
+- [Model 05c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Model%2005c.jpg)
+- [Model 05c.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c.uml)
+- [Model 05c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c._ml_)
+- [Budynek.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Budynek.h)
+- [Budynek.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Budynek.cpp)
+- [Sklep.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Sklep.h)
+- [Sklep.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Sklep.cpp)
+- [Firma.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Firma.h)
+- [Firma.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Firma.cpp)
+- [Lab 05c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c.cpp)
+- [Wynik 05c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Wynik%2005c.jpg)
