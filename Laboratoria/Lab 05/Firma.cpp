@@ -66,8 +66,13 @@ void Firma::dodajSklep(Sklep * sklep) {
     sklepy.push_back(sklep);
 }
 
-void Firma::usunSklep(int i) {
-    sklepy[i] = nullptr;
+void Firma::usunSklep(string nazwaSklepu) {
+    for(vector<person>::iterator it = sklepy.begin(); it != sklepy.end(); it++) {
+        if(it->getNazwa == nazwaSklepu) {
+            sklepy.erase(it);
+            break;
+        }
+    }
 }
 
 void Firma::wyswietlSklep(int i) {

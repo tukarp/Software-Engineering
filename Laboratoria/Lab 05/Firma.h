@@ -32,7 +32,7 @@ public:
     Firma(std::string nazwa, std::string szefFirmy, int latNaRynku, int rocznyPrzychod, int iloscPracownikow);
 	~Firma();
 	void dodajSklep(Sklep * sklep);
-	void usunSklep(int i);
+	void usunSklep(string nazwaSklepu);
 	void wyswietlSklep(int i);
 	void ustawSklep(int i, std::string nazwaSklepu, std::string rodzajSklepu, std::string wielkoscSklepu, std::string godzinyOtwarciaSklepu, Budynek * budynekSklepu);
 private:

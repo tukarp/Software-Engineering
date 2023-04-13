@@ -62,7 +62,9 @@ Sklep::Sklep(std::string nazwa, std::string rodzaj, std::string wielkosc, std::s
     this->budynek = budynek;
 }
 
-Sklep::~Sklep() {}
+Sklep::~Sklep() {
+    delete budynek;
+}
 
 void Sklep::printSklep() {
     std::cout << "Nazwa: " << getNazwa() << ", Rodzaj: " << getRodzaj() << ", Wielkosc: " << getWielkosc() << "\n";

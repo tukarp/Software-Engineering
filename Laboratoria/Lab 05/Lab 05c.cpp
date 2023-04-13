@@ -34,15 +34,10 @@ int main() {
     // Parametry firmy: nazwa, szefFirmy, latNaRynku, rocznyPrzychod, iloscPracownikow
     Firma * firma = new Firma("TomaszCorp", "Tomasz Kowalski", 10, 100000000, 1000);
 
-    // Utworzenie budynkow dla sklepow
-    Budynek * budynek1 = new Budynek("Makrelowa 18", 20, 500, true, 20000.0);
-    Budynek * budynek2 = new Budynek("Sloneczna 3", 5, 100, true, 10000.0);
-    Budynek * budynek3 = new Budynek("Akademicka 13", 2, 30, false, 5000.0);
-
-    // Utworzenie sklepow dla firmy
-    Sklep * sklep1 = new Sklep("Lidl", "Spozywczy", "Duzy", "7-22", budynek1);
-    Sklep * sklep2 = new Sklep("MediaMarkt", "RTV", "Sredni", "8-20", budynek2);
-    Sklep * sklep3 = new Sklep("Zabka", "Spozywczy", "Maly", "6-24", budynek3);
+    // Utworzenie sklepow i budynków dla firmy
+    Sklep * sklep1 = new Sklep("Lidl", "Spozywczy", "Duzy", "7-22", new Budynek("Makrelowa 18", 20, 500, true, 20000.0));
+    Sklep * sklep2 = new Sklep("MediaMarkt", "RTV", "Sredni", "8-20", new Budynek("Sloneczna 3", 5, 100, true, 10000.0));
+    Sklep * sklep3 = new Sklep("Zabka", "Spozywczy", "Maly", "6-24", new Budynek("Akademicka 13", 2, 30, false, 5000.0));
 
     // Dodanie sklepow do firmy
     firma->dodajSklep(sklep1);
@@ -67,9 +62,9 @@ int main() {
     cout << "---------------------------------------------------------------------------------------\n";
 
     // Usun sklepy
-    firma->usunSklep(0);
-    firma->usunSklep(1);
-    firma->usunSklep(2);
+    firma->usunSklep("Lidl");
+    firma->usunSklep("MediaMarkt");
+    firma->usunSklep("Zabka");
 
     return 0;
 }

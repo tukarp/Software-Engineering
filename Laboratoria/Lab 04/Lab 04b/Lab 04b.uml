@@ -107,7 +107,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="nU3Cbsx0IU+qjh3Pot2+9wAA">
 <XPD:ATTR name="Alpha" type="real">4,2799799170782</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">14,3178210632764</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">1..*</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">0..*</XPD:ATTR>
 <XPD:REF name="Model">i4GF3zbXREmnNeu/kl/8fQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="FiO7YtYmakSfN6vKVYoHawAA">
@@ -684,7 +684,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[2]" type="UMLAssociation" guid="i4GF3zbXREmnNeu/kl/8fQAA">
-<XPD:ATTR name="Name" type="string">1..*</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">0..*</XPD:ATTR>
 <XPD:REF name="Namespace">l524n+RtN0y5mhYNMSN/2gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">tsb+Q9mChEKQOpkkqxkQnwAA</XPD:REF>
