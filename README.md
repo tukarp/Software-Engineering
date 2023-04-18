@@ -15,6 +15,7 @@
   - [Laboratorium 4c](#laboratorium-4c)
 - [Laboratorium 5](#laboratorium-5)
   - [Laboratorium 5c](#laboratorium-5c)
+- [Laboratorium 6](#laboratorium-6)
 
 ## Laboratoria
 
@@ -168,3 +169,18 @@
 - [Firma.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Firma.cpp)
 - [Lab 05c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c.cpp)
 - [Wynik 05c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Wynik%2005c.jpg)
+
+### Laboratorium 6
+
+![Model 06]()
+
+- [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2006)
+- [Model 06.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/Model%2006.jpg)
+- [Model 06.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/Lab%2006.uml)
+- [Model 06.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/Lab%2006._ml_)
+- [System.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/System.h)
+- [System.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/System.cpp)
+- [User.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/User.h)
+- [User.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/User.h)
+- [Lab 06.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/Lab%2006.cpp)
+- [Wynik 06.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/Wynik%2006.jpg)
