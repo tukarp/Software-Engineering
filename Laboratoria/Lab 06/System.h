@@ -4,7 +4,7 @@
 //
 //  @ Project : Lab 06
 //  @ File Name : System.h
-//  @ Date : 13.04.2023
+//  @ Date : 19.04.2023
 //  @ Author : Tomasz Wnuk
 //
 //
@@ -29,11 +29,11 @@ public:
 	bool getCzyJestResponsywny();
 	void dodajUzytkownika(User * uzytkownik);
 	void usunUzytkownika(User * uzytkownik);
-	void wyswietlUzytkownika(User * uzytkownik);
-	bool uwierzytelnianie(std::string identyfikator, std::string haslo);
+	static void wyswietlUzytkownika(User * uzytkownik);
+    bool uwierzytelnianie(std::string identyfikator, std::string haslo);
     System(std::string nazwa, std::string technologia, bool czyDzialaSzybko, bool czyJestResponsywny);
 private:
-	std::string nazwa;
+    std::string nazwa;
     std::string technologia;
 	bool czyDzialaSzybko;
 	bool czyJestResponsywny;

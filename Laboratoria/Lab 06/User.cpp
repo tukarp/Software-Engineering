@@ -4,13 +4,14 @@
 //
 //  @ Project : Lab 06
 //  @ File Name : User.cpp
-//  @ Date : 13.04.2023
+//  @ Date : 19.04.2023
 //  @ Author : Tomasz Wnuk
 //
 //
 
-#include "User.h"
+
 #include <iostream>
+#include "User.h"
 
 void User::setIdentyfikator(std::string identyfikator) {
     this->identyfikator = identyfikator;
@@ -52,51 +53,67 @@ std::string User::getEmail() {
     return email;
 }
 
-void User::otworzKatalogStronyDomowej(System * system) {
+void User::zalogujSie() {
+    std::string input;
+
+    std::cout << "Podaj identyfikator: ";
+    std::cin >> input;
+    setIdentyfikator(input);
+
+    std::cout << "Podaj haslo: ";
+    std::cin >> input;
+    setHaslo(input);
+}
+
+void User::otworzKatalogStronyDomowej() {
     std::cout << "---------------------------------------------------------------------------------------\n";
     std::cout << "-----------------------------------------Sklep-----------------------------------------\n";
     std::cout << "---------------------------------------------------------------------------------------\n";
-    zalogujSie(system);
 }
 
-void User::zalogujSie(System * system) {
+void User::zalogowano() {
+    std::cout << "---------------------------------------------------------------------------------------\n";
+    std::cout << "--------------------------------------Zalogowano---------------------------------------\n";
+    std::cout << "---------------------------------------------------------------------------------------\n";
+}
+
+void User::zarejestrujSie() {
+    std::cout << "---------------------------------------------------------------------------------------\n";
+    std::cout << "--------------------------------------Rejestracja--------------------------------------\n";
+    std::cout << "---------------------------------------------------------------------------------------\n";
+    std::string input;
+
     std::cout << "Podaj identyfikator: ";
-    std::cin >> identyfikator;
+    std::cin >> input;
+    setIdentyfikator(input);
 
     std::cout << "Podaj haslo: ";
-    std::cin >> haslo;
+    std::cin >> input;
+    setHaslo(input);
 
-    logowanie(system, identyfikator, haslo);
+    std::cout << "Podaj imie: ";
+    std::cin >> input;
+    setImie(input);
+
+    std::cout << "Podaj nazwisko: ";
+    std::cin >> input;
+    setNazwisko(input);
+
+    std::cout << "Podaj email: ";
+    std::cin >> input;
+    setEmail(input);
+
+    wyslijDane();
 }
 
-void User::logowanie(System * system, std::string identyfikator, std::string haslo) {
-    if(system->uwierzytelnianie(identyfikator, haslo)) {
-        std::cout << "---------------------------------------------------------------------------------------\n";
-        std::cout << "--------------------------------------Zalogowano---------------------------------------\n";
-        std::cout << "---------------------------------------------------------------------------------------\n";
-        return;
-    } else {
-        zarejestrujSie(system);
-    }
-}
-
-void User::zarejestrujSie(System * system) {
-    User * uzytkownik = new User(identyfikator, haslo, imie, nazwisko, email);
-    wyslijDane(system, uzytkownik);
-}
-
-void User::wyslijDane(System * system, User * uzytkownik) {
-    system->dodajUzytkownika(uzytkownik);
+User * User::wyslijDane() {
+    return this;
 }
 
 User::User(std::string identyfikator, std::string haslo, std::string imie, std::string nazwisko, std::string email) {
-    this->identyfikator = std::move(identyfikator);
-    this->haslo = std::move(haslo);
-    this->imie = std::move(imie);
-    this->nazwisko = std::move(nazwisko);
-    this->email = std::move(email);
-}
-
-User::User() {
-
+    this->identyfikator = identyfikator;
+    this->haslo = haslo;
+    this->imie = imie;
+    this->nazwisko = nazwisko;
+    this->email = email;
 }

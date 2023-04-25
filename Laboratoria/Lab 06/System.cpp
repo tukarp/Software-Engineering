@@ -4,7 +4,7 @@
 //
 //  @ Project : Lab 06
 //  @ File Name : System.cpp
-//  @ Date : 13.04.2023
+//  @ Date : 19.04.2023
 //  @ Author : Tomasz Wnuk
 //
 //
@@ -12,7 +12,6 @@
 
 #include <iostream>
 #include "System.h"
-#include "User.h"
 
 void System::setNazwa(std::string nazwa) {
     this->nazwa = nazwa;
@@ -46,8 +45,16 @@ bool System::getCzyJestResponsywny() {
     return czyJestResponsywny;
 }
 
+System::System(std::string nazwa, std::string technologia, bool czyDzialaSzybko, bool czyJestResponsywny) {
+    this->nazwa = nazwa;
+    this->technologia = technologia;
+    this->czyDzialaSzybko = czyDzialaSzybko;
+    this->czyJestResponsywny = czyJestResponsywny;
+}
+
 void System::dodajUzytkownika(User * uzytkownik) {
-    uzytkownicy.push_back(uzytkownik);
+    User * nowyUzytkownik = new User(uzytkownik->getIdentyfikator(), uzytkownik->getHaslo(), uzytkownik->getImie(), uzytkownik->getNazwisko(), uzytkownik->getEmail());
+    uzytkownicy.push_back(nowyUzytkownik);
 }
 
 void System::usunUzytkownika(User * uzytkownik) {
@@ -63,21 +70,14 @@ void System::wyswietlUzytkownika(User * uzytkownik) {
     std::cout << "--------------------------------------Uzytkownik---------------------------------------\n";
     std::cout << "---------------------------------------------------------------------------------------\n";
     std::cout << "Identyfikator: " << uzytkownik->getIdentyfikator() << ", Imie: " << uzytkownik->getImie() << ", Nazwisko: " << uzytkownik->getNazwisko() << "\n";
-    std::cout << "Email: " << uzytkownik->getEmail();
+    std::cout << "Email: " << uzytkownik->getEmail() << "\n";
 }
 
 bool System::uwierzytelnianie(std::string identyfikator, std::string haslo) {
-    for(int i = 0; i < uzytkownicy.size(); i++) {
-        if((uzytkownicy[i]->getIdentyfikator() == identyfikator) && (uzytkownicy[i]->getHaslo() == haslo)) {
+    for(auto & i : uzytkownicy) {
+        if((i->getIdentyfikator() == identyfikator) && (i->getHaslo() == haslo)) {
             return true;
         }
     }
     return false;
-}
-
-System::System(std::string nazwa, std::string technologia, bool czyDzialaSzybko, bool czyJestResponsywny) {
-    this->nazwa = nazwa;
-    this->technologia = technologia;
-    this->czyDzialaSzybko = czyDzialaSzybko;
-    this->czyJestResponsywny = czyJestResponsywny;
 }

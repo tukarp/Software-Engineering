@@ -4,7 +4,7 @@
 //
 //  @ Project : Lab 06
 //  @ File Name : User.h
-//  @ Date : 13.04.2023
+//  @ Date : 19.04.2023
 //  @ Author : Tomasz Wnuk
 //
 //
@@ -14,11 +14,10 @@
 #define _USER_H
 
 #include <string>
-#include "System.h"
 
 class User {
 public:
-    void setIdentyfikator(std::string identyfikator);
+	void setIdentyfikator(std::string identyfikator);
 	void setHaslo(std::string haslo);
 	void setImie(std::string imie);
 	void setNazwisko(std::string nazwisko);
@@ -28,19 +27,18 @@ public:
     std::string getImie();
     std::string getNazwisko();
     std::string getEmail();
-	void otworzKatalogStronyDomowej(System * system);
-	void zalogujSie(System * system);
-	void logowanie(System * system, std::string identyfikator, std::string haslo);
-	void zarejestrujSie(System * system);
-	void wyslijDane(System * system, User * uzytkownik);
-    User();
+	void zalogujSie();
+    void zarejestrujSie();
+	static void zalogowano();
+    static void otworzKatalogStronyDomowej();
+    User * wyslijDane();
+    User(std::string identyfikator, std::string haslo, std::string imie, std::string nazwisko, std::string email);
 private:
     std::string identyfikator;
     std::string haslo;
     std::string imie;
     std::string nazwisko;
-    System * system;
-    User(std::string identyfikator, std::string haslo, std::string imie, std::string nazwisko, std::string email);
+    std::string email;
 };
 
 #endif  //_USER_H
