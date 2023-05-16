@@ -2,6 +2,8 @@
 
 ## Spis treści
 
+### Laboratoria
+
 - [Laboratorium 1](#laboratorium-1)
 - [Laboratorium 2](#laboratorium-2)
 - [Laboratorium 3](#laboratorium-3)
@@ -17,7 +19,7 @@
   - [Laboratorium 5c](#laboratorium-5c)
 - [Laboratorium 6](#laboratorium-6)
 
-## Laboratoria
+# Laboratoria
 
 ### Laboratorium 1
 
