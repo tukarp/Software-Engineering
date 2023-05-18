@@ -26,7 +26,8 @@
 ![Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001/Model%2001.jpg)
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2001)
-- [Model](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001/Lab%2001._ml_)
+- [Model 01.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001/Model%2001.jpg)
+- [Laboratorium 01.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2001/Lab%2001._ml_)
 
 ### Laboratorium 2
 
@@ -54,7 +55,7 @@
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2003/Lab%2003a)
 - [Model 03a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Model%2003a.jpg)
 - [Laboratorium 03a.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Laboratorium%2003a.uml)
-- [Laboratorium 03a.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Lab%2003a.~ml)
+- [Laboratorium 03a.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Laboratorium%2003a.~ml)
 - [CareTaker.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/CareTaker.h)
 - [CareTaker.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/CareTaker.cpp)
 - [Cat.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003a/Cat.h)
