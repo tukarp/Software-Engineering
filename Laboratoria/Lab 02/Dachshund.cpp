@@ -14,12 +14,12 @@
 
 using namespace std;
 
-void Dachshund::setName(string name) {
-    this->name = name;
-}
-
 string Dachshund::getName() {
     return name;
+}
+
+void Dachshund::setName(string name) {
+    this->name = name;
 }
 
 Dachshund::Dachshund(int age, string color, float height, float weight, bool landAnimal, string purpose,

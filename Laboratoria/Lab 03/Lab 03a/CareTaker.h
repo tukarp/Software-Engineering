@@ -19,16 +19,16 @@ using namespace std;
 
 class CareTaker {
 public:
-	void setName(string name);
-	void setHeight(float height);
-	void setAge(int age);
-	void setHobby(string hobby);
-	void setCanTakeCareOfCat(bool canTakeCareOfCat);
 	string getName();
+	void setName(string name);
 	float getHeight();
+	void setHeight(float height);
 	int getAge();
+	void setAge(int age);
 	string getHobby();
+	void setHobby(string hobby);
 	bool getCanTakeCareOfCat();
+	void setCanTakeCareOfCat(bool canTakeCareOfCat);
 	CareTaker(string name, float height, int age, string hobby, bool canTakeCareOfCat);
 	~CareTaker();
 	void takeCareOfYourHobby();

@@ -19,12 +19,12 @@ using namespace std;
 
 class Dog : public Mammal {
 public:
-	void setPurpose(string purpose);
-	void setPersonality(string personality);
-	void setLongHaired(bool longHaired);
 	string getPurpose();
+	void setPurpose(string purpose);
 	string getPersonality();
+	void setPersonality(string personality);
 	bool getLongHaired();
+	void setLongHaired(bool longHaired);
 	Dog(int age, string color, float height, float weight, bool landAnimal, string purpose, string personality,
         bool longHaired);
 	~Dog();

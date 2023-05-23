@@ -14,44 +14,44 @@
 
 using namespace std;
 
-void Mammal::setAge(int age) {
-    this->age = age;
-}
-
-void Mammal::setColor(string color) {
-    this->color = color;
-}
-
-void Mammal::setHeight(float height) {
-    this->height = height;
-}
-
-void Mammal::setWeight(float weight) {
-    this->weight = weight;
-}
-
-void Mammal::setLandAnimal(bool landAnimal) {
-    this->landAnimal = landAnimal;
-}
-
 int Mammal::getAge() {
     return age;
+}
+
+void Mammal::setAge(int age) {
+    this->age = age;
 }
 
 string Mammal::getColor() {
     return color;
 }
 
+void Mammal::setColor(string color) {
+    this->color = color;
+}
+
 float Mammal::getHeight() {
     return height;
+}
+
+void Mammal::setHeight(float height) {
+    this->height = height;
 }
 
 float Mammal::getWeight() {
     return weight;
 }
 
+void Mammal::setWeight(float weight) {
+    this->weight = weight;
+}
+
 bool Mammal::getLandAnimal() {
     return landAnimal;
+}
+
+void Mammal::setLandAnimal(bool landAnimal) {
+    this->landAnimal = landAnimal;
 }
 
 Mammal::Mammal(int age, string color, float height, float weight, bool landAnimal) {

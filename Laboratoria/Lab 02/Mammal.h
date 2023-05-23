@@ -18,16 +18,16 @@ using namespace std;
 
 class Mammal {
 public:
-	void setAge(int age);
-	void setColor(string color);
-	void setHeight(float height);
-	void setWeight(float weight);
-	void setLandAnimal(bool landAnimal);
 	int getAge();
+	void setAge(int age);
 	string getColor();
+	void setColor(string color);
 	float getHeight();
+	void setHeight(float height);
 	float getWeight();
+	void setWeight(float weight);
 	bool getLandAnimal();
+	void setLandAnimal(bool landAnimal);
 	Mammal(int age, string color, float height, float weight, bool landAnimal);
 	~Mammal();
 private:

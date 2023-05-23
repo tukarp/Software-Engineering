@@ -44,7 +44,7 @@
 - [Dachshund.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Dachshund.h)
 - [Dachshund.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Dachshund.cpp)
 - [Laboratorium 02.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Laboratorium%2002.cpp)
-- [Result 02](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Result%2002.jpg)
+- [Result 02.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2002/Result%2002.jpg)
 
 ### Laboratorium 3
 

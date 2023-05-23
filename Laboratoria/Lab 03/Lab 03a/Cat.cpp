@@ -13,16 +13,32 @@
 #include <string>
 #include "Cat.h"
 
+string Cat::getName() {
+    return name;
+}
+
 void Cat::setName(string name) {
     this->name = name;
+}
+
+string Cat::getColor() {
+    return color;
 }
 
 void Cat::setColor(string color) {
     this->color = color;
 }
 
+int Cat::getAge() {
+    return age;
+}
+
 void Cat::setAge(int age) {
     this->age = age;
+}
+
+bool Cat::getIsCatFed() {
+    return isCatFed;
 }
 
 void Cat::setIsCatFed(bool canTakeCareOfCat, bool feedCat) {
@@ -33,32 +49,16 @@ void Cat::setIsCatFed(bool canTakeCareOfCat, bool feedCat) {
     }
 }
 
+bool Cat::getIsCatPetted() {
+    return isCatPetted;
+}
+
 void Cat::setIsCatPetted(bool canTakeCareOfCat, bool petCat) {
     if((petCat) && (canTakeCareOfCat)) {
         this->isCatPetted = true;
     } else {
         this->isCatPetted = false;
     }
-}
-
-string Cat::getName() {
-    return name;
-}
-
-string Cat::getColor() {
-    return color;
-}
-
-int Cat::getAge() {
-    return age;
-}
-
-bool Cat::getIsCatFed() {
-    return isCatFed;
-}
-
-bool Cat::getIsCatPetted() {
-    return isCatPetted;
 }
 
 Cat::Cat(string name, string color, int age, bool isCatFed, bool isCatPetted) {

@@ -18,16 +18,16 @@ using namespace std;
 
 class Cat {
 public:
-	void setName(string name);
-	void setColor(string color);
-	void setAge(int age);
-	void setIsCatFed(bool canTakeCareOfCat, bool isCatFed);
-	void setIsCatPetted(bool canTakeCareOfCat, bool isCatPetted);
 	string getName();
+	void setName(string name);
 	string getColor();
+	void setColor(string color);
 	int getAge();
+	void setAge(int age);
 	bool getIsCatFed();
+	void setIsCatFed(bool canTakeCareOfCat, bool isCatFed);
 	bool getIsCatPetted();
+	void setIsCatPetted(bool canTakeCareOfCat, bool isCatPetted);
 	Cat(string name, string color, int age, bool isCatFed, bool isCatPetted);
 	~Cat();
 	void getPetted();

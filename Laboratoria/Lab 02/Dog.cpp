@@ -14,28 +14,28 @@
 
 using namespace std;
 
-void Dog::setPurpose(string purpose) {
-    this->purpose = purpose;
-}
-
-void Dog::setPersonality(string personality) {
-    this->personality = personality;
-}
-
-void Dog::setLongHaired(bool longHaired) {
-    this->longHaired = longHaired;
-}
-
 string Dog::getPurpose() {
     return purpose;
+}
+
+void Dog::setPurpose(string purpose) {
+    this->purpose = purpose;
 }
 
 string Dog::getPersonality() {
     return personality;
 }
 
+void Dog::setPersonality(string personality) {
+    this->personality = personality;
+}
+
 bool Dog::getLongHaired() {
     return longHaired;
+}
+
+void Dog::setLongHaired(bool longHaired) {
+    this->longHaired = longHaired;
 }
 
 Dog::Dog(int age, string color, float height, float weight, bool landAnimal, string purpose, string personality,

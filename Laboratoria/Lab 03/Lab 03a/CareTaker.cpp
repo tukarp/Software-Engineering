@@ -15,44 +15,44 @@
 
 using namespace std;
 
-void CareTaker::setName(string name) {
-    this->name = name;
-}
-
-void CareTaker::setHeight(float height) {
-    this->height = height;
-}
-
-void CareTaker::setAge(int age) {
-    this->age = age;
-}
-
-void CareTaker::setHobby(string hobby) {
-    this->hobby = hobby;
-}
-
-void CareTaker::setCanTakeCareOfCat(bool canTakeCareOfCat) {
-    this->canTakeCareOfCat = canTakeCareOfCat;
-}
-
 string CareTaker::getName() {
     return name;
+}
+
+void CareTaker::setName(string name) {
+    this->name = name;
 }
 
 float CareTaker::getHeight() {
     return height;
 }
 
+void CareTaker::setHeight(float height) {
+    this->height = height;
+}
+
 int CareTaker::getAge() {
     return age;
+}
+
+void CareTaker::setAge(int age) {
+    this->age = age;
 }
 
 string CareTaker::getHobby() {
     return hobby;
 }
 
+void CareTaker::setHobby(string hobby) {
+    this->hobby = hobby;
+}
+
 bool CareTaker::getCanTakeCareOfCat() {
     return canTakeCareOfCat;
+}
+
+void CareTaker::setCanTakeCareOfCat(bool canTakeCareOfCat) {
+    this->canTakeCareOfCat = canTakeCareOfCat;
 }
 
 CareTaker::CareTaker(string name, float height, int age, string hobby, bool canTakeCareOfCat) {

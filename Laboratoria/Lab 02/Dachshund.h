@@ -19,8 +19,8 @@ using namespace std;
 
 class Dachshund : public Dog {
 public:
+	string getName();
 	void setName(string name);
-    string getName();
 	Dachshund(int age, string color, float height, float weight, bool landAnimal, string purpose,
               string personality, bool longHaired, string name);
 	~Dachshund();
