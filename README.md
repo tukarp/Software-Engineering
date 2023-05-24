@@ -91,8 +91,8 @@
 - [Employee.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Employee.cpp)
 - [Company.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Company.h)
 - [Company.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Company.cpp)
-- [Laboratorium 03.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Laboratorium%2003c.cpp)
-- [Result 03c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Result%2003c.jpg)
+- [Laboratorium 03c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Laboratorium%2003c.cpp)
+- [Result 03c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003c/Result%2003c.jpg)
 
 ### Laboratorium 3d
 
@@ -106,8 +106,8 @@
 - [Product.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003d/Product.cpp)
 - [Shop.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003d/Shop.h)
 - [Shop.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003d/Shop.cpp)
-- [Laboratorium 03d.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Laboratorium%2003d.cpp)
-- [Result 03d.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003b/Result%2003d.jpg)
+- [Laboratorium 03d.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003d/Laboratorium%2003d.cpp)
+- [Result 03d.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2003/Lab%2003d/Result%2003d.jpg)
 
 ### Laboratorium 4
 
