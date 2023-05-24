@@ -13,6 +13,8 @@
 #include <string>
 #include "Cat.h"
 
+using namespace std;
+
 string Cat::getName() {
     return name;
 }
