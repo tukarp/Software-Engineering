@@ -2,6 +2,8 @@
 #include "Cat.h"
 #include "CareTaker.h"
 
+using namespace std;
+
 int main() {
     // Creating caretaker
     // Caretaker parameters: name: string, height: float, age: int, hobby: string, canTakeCareOfCat: bool
