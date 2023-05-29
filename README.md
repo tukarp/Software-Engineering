@@ -119,12 +119,12 @@
 - [Model 04a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Model%2004a.jpg)
 - [Model 04a.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Lab%2004a.uml)
 - [Model 04a.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Lab%2004a.~ml)
-- [Opiekun.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Opiekun.h)
-- [Opiekun.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Opiekun.cpp)
-- [Kot.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Kot.h)
-- [Kot.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Kot.cpp)
-- [Lab 04a.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Lab%2004a.cpp)
-- [Wynik 04a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Wynik%2004a.jpg)
+- [CareTaker.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/CareTaker.h)
+- [CareTaker.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/CareTaker.cpp)
+- [Cat.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Cat.h)
+- [Cat.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Cat.cpp)
+- [Laboratorium 04a.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Laboratorium%2004a.cpp)
+- [Result 04a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004a/Result%2004a.jpg)
 
 ### Laboratorium 4b
 

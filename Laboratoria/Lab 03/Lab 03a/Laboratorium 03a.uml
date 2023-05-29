@@ -69,9 +69,9 @@
 <XPD:OBJ name="OwnedViews[1]" type="UMLClassView" guid="UoGzbJ3GJU2KQiVG+6BgKgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">532</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">572</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">12</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">579</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">506</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">303</XPD:ATTR>
 <XPD:REF name="Model">H0cBxIUQrkGNs81Xwx7TzAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="aZ2jhZRn4USvtWQj3HK1vwAA">
@@ -100,7 +100,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLDependencyView" guid="AbtXWraBXkmxEKpAn6gwpwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">455,163;532,163</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">455,163;572,163</XPD:ATTR>
 <XPD:REF name="Model">ftN3bVZdpkGzYk6cMj/GgAAA</XPD:REF>
 <XPD:REF name="Head">UoGzbJ3GJU2KQiVG+6BgKgAA</XPD:REF>
 <XPD:REF name="Tail">fSHza/IUnkiPYGD6IWopdwAA</XPD:REF>
@@ -226,17 +226,17 @@
 <XPD:ATTR name="Name" type="string">setIsCatFed</XPD:ATTR>
 <XPD:REF name="Owner">gxtffUvJTEiUekTFfB9iGwAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="CLsrmejdsEi0S0zrK9lGtwAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="AXhBwl+fmEeyHWs6EjjmCgAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">KpsFnS5iNEaz1cKIy4AmSgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="iIm1NZq1yEaMHQE0uB6ScAAA">
-<XPD:ATTR name="Name" type="string">careTaker</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">CareTaker *</XPD:ATTR>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="M182cRP8y0OKxTBKSdlx1QAA">
+<XPD:ATTR name="Name" type="string">canTakeCareOfCate</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">bool</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">KpsFnS5iNEaz1cKIy4AmSgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="t+LfTWw1dkSV0SIS5Jkm1gAA">
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="ViUXuzWlJ0OWfma/GG3JrQAA">
 <XPD:ATTR name="Name" type="string">isCatFed</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">bool</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">KpsFnS5iNEaz1cKIy4AmSgAA</XPD:REF>
@@ -253,21 +253,21 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[9]" type="UMLOperation" guid="m6Px1XmpbUmgj7Y+trNiXQAA">
-<XPD:ATTR name="Name" type="string">setIsCatPetted</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">setIsCatFed</XPD:ATTR>
 <XPD:REF name="Owner">gxtffUvJTEiUekTFfB9iGwAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">3</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="w0LrG7kBGEG1YqsP8eXsTwAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="MzdGG6gbKE2BfJVQahxMuwAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">m6Px1XmpbUmgj7Y+trNiXQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="Lbqa1Ij+NEeIJ781be+1yAAA">
-<XPD:ATTR name="Name" type="string">careTaker</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">CareTaker *</XPD:ATTR>
+<XPD:OBJ name="Parameters[1]" type="UMLParameter" guid="vLxL1FkhiUWdeuPo3jU2IwAA">
+<XPD:ATTR name="Name" type="string">canTakeCareOfCate</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">bool</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">m6Px1XmpbUmgj7Y+trNiXQAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="bWxVmIj01Eio56jPTIav9wAA">
-<XPD:ATTR name="Name" type="string">isCatPetted</XPD:ATTR>
+<XPD:OBJ name="Parameters[2]" type="UMLParameter" guid="jTQA2VWP9UaJ0fcBzxey3QAA">
+<XPD:ATTR name="Name" type="string">isCatFed</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">bool</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">m6Px1XmpbUmgj7Y+trNiXQAA</XPD:REF>
 </XPD:OBJ>
