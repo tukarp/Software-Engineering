@@ -2,6 +2,8 @@
 #include "Shop.h"
 #include "Product.h"
 
+using namespace std;
+
 int main() {
     // Create Shop
     // Shop parameters: name: string, type: string, size: string, openingHours: string, flagshipProduct: Product *
