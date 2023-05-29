@@ -2,6 +2,8 @@
 #include "UniversitySubject.h"
 #include "Student.h"
 
+using namespace std;
+
 int main() {
     // Creating university subject
     // UniversitySubject parameters: name: string, description: string, ETCSPoints: float, lecturer: string, numberOfUnassistedWorkHours: int
