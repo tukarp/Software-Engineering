@@ -2,6 +2,8 @@
 #include "Company.h"
 #include "Employee.h"
 
+using namespace std;
+
 int main() {
     // Creating company
     // Company parameters: name: string, specialization: string, yearsOnTheMarket: int, numberOfEmployees: int, annualRevenue: int
