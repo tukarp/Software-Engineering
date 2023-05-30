@@ -36,13 +36,14 @@ public:
     void goShopping();
 	void attachCat(Cat * cat);
 	void detachCat(Cat * cat);
+    void printCat(Cat * cat);
 private:
 	string name;
 	float height;
 	int age;
 	string hobby;
 	bool canTakeCareOfCat;
-    vector<Cat *> cats;
+    vector <Cat *> cats;
 };
 
 #endif  //_CARETAKER_H

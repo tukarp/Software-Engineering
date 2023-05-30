@@ -131,14 +131,14 @@
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2004/Lab%2004b)
 - [Model 04b.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Model%2004b.jpg)
-- [Model 04b.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Lab%2004b.uml)
-- [Model 04b.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Lab%2004b.~ml)
-- [Pracownik.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Pracownik.h)
-- [Pracownik.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Pracownik.cpp)
-- [Firma.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Firma.h)
-- [Firma.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Firma.cpp)
-- [Lab 04b.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Lab%2004b.cpp)
-- [Wynik 04b.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Wynik%2004b.jpg)
+- [Laboratorium 04b.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Laboratorium%2004b.uml)
+- [Laboratorium 04b.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Laboratorium%2004b.~ml)
+- [Employee.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Employee.h)
+- [Employee.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Employee.cpp)
+- [Company.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Company.h)
+- [Company.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Company.cpp)
+- [Laboratorium 04b.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Laboratorium%2004b.cpp)
+- [Result 04b.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004b/Result%2004b.jpg)
 
 ### Laboratorium 4c
 
@@ -146,14 +146,14 @@
 
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2004/Lab%2004c)
 - [Model 04c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Model%2004c.jpg)
-- [Model 04c.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Lab%2004c.uml)
-- [Model 04c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Lab%2004c.~ml)
-- [Produkt.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Produkt.h)
-- [Produkt.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Produkt.cpp)
-- [Sklep.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Sklep.h)
-- [Sklep.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Sklep.cpp)
-- [Lab 04c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Lab%2004c.cpp)
-- [Wynik 04c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Wynik%2004c.jpg)
+- [Laboratorium 04c.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Laboratorium%2004c.uml)
+- [Laboratorium 04c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Laboratorium%2004c.~ml)
+- [Product.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Product.h)
+- [Product.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Product.cpp)
+- [Shop.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Shop.h)
+- [Shop.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Shop.cpp)
+- [Laboratorium 04c.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Laboratorium%2004c.cpp)
+- [Result 04c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2004/Lab%2004c/Result%2004c.jpg)
 
 ### Laboratorium 5
 

@@ -88,3 +88,12 @@ void CareTaker::detachCat(Cat * cat) {
     }
     cout << "Cat " << cat->getName() << " detached from " << name << "!" << endl;
 }
+
+void CareTaker::printCat(Cat * cat) {
+    cout << "Name: " << cat->getName() << endl;
+    cout << "Color: " << cat->getColor() << endl;
+    cout << "Age: " << cat->getAge() << endl;
+    cout << "Is cat fed: " << cat->getIsCatFed() << endl;
+    cout << "Is cat petted: " << cat->getIsCatPetted() << endl;
+    cout << endl;
+}

@@ -8,7 +8,7 @@ int main() {
     // Create Shop
     // Shop parameters: name: string, type: string, size: string, openingHours: string, flagshipProduct: Product *
     Shop * shop = new Shop("Biedronka", "Supermarket", "Large", "8:00 - 21:00",
-                           // Create product
+                           // Create flagship product
                            // Product parameters: name: string, quantity: int, composition: string, weight: float, expirationDate: string
                            new Product("Milk", 10, "Cow milk", 1.0, "2023-05-24"));
 
@@ -27,7 +27,7 @@ int main() {
     shop->printFlagshipProduct();
     shop->closeShop();
 
-    // Print product
+    // Print flagship product
     cout << "---------------------------------------------------------------------------------------\n";
     cout << "----------------------------------------Product----------------------------------------\n";
     cout << "---------------------------------------------------------------------------------------\n";
@@ -37,7 +37,7 @@ int main() {
     cout << "Weight: " << shop->getFlagshipProduct()->getWeight() << endl;
     cout << "Expiration date: " << shop->getFlagshipProduct()->getExpirationDate() << endl;
 
-    // Product methods
+    // Flagship product methods
     shop->getFlagshipProduct()->sellProduct();
     cout << "Quantity: " << shop->getFlagshipProduct()->getQuantity() << endl;
 

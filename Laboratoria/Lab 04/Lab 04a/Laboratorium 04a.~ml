@@ -656,7 +656,7 @@
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="e14IoeVgI0WKThMOseDWOAAA">
 <XPD:ATTR name="Name" type="string">cats</XPD:ATTR>
-<XPD:ATTR name="TypeExpression" type="string">vector&lt; Cat *&gt;</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">vector&lt;Cat *&gt;</XPD:ATTR>
 <XPD:REF name="Owner">H0cBxIUQrkGNs81Xwx7TzAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>

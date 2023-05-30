@@ -22,12 +22,19 @@ int main() {
     // Caretaker methods
     careTaker.takeCareOfYourHobby();
     careTaker.goShopping();
+    cout << endl;
 
     // Creating cats
     // Cat parameters: name: string, color: string, age: int, isCatFed: bool, isCatPetted: bool
     Cat cat1 = Cat("Miauczyslaw", "White", 3, false, false);
     Cat cat2 = Cat("Garfield", "Orange", 2, true, false);
     Cat cat3 = Cat("Mruczek", "Grey", 1, false, true);
+
+    // Attaching cats to caretaker
+    careTaker.attachCat(&cat1);
+    careTaker.attachCat(&cat2);
+    careTaker.attachCat(&cat3);
+    cout << endl;
 
     // Printing cats
     cout << "---------------------------------------------------------------------------------------\n";
@@ -39,16 +46,7 @@ int main() {
     cout << "---------------------------------------------------------------------------------------\n";
     cout << "------------------------------------------Cat1-----------------------------------------\n";
     cout << "---------------------------------------------------------------------------------------\n";
-    cout << "Name: " << cat1.getName() << endl;
-    cout << "Color: " << cat1.getColor() << endl;
-    cout << "Age: " << cat1.getAge() << endl;
-    cout << "Is cat fed: " << cat1.getIsCatFed() << endl;
-    cout << "Is cat petted: " << cat1.getIsCatPetted() << endl;
-    cout << endl;
-
-    // Attaching cat1
-    careTaker.attachCat(&cat1);
-    cout << endl;
+    careTaker.printCat(&cat1);
 
     // Cat1 methods
     cat1.getPetted();
@@ -85,16 +83,7 @@ int main() {
     cout << "---------------------------------------------------------------------------------------\n";
     cout << "------------------------------------------Cat2-----------------------------------------\n";
     cout << "---------------------------------------------------------------------------------------\n";
-    cout << "Name: " << cat2.getName() << endl;
-    cout << "Color: " << cat2.getColor() << endl;
-    cout << "Age: " << cat2.getAge() << endl;
-    cout << "Is cat fed: " << cat2.getIsCatFed() << endl;
-    cout << "Is cat petted: " << cat2.getIsCatPetted() << endl;
-    cout << endl;
-
-    // Attaching cat2
-    careTaker.attachCat(&cat2);
-    cout << endl;
+    careTaker.printCat(&cat2);
 
     // Cat2 methods
     cat2.getPetted();
@@ -132,21 +121,13 @@ int main() {
     cout << "---------------------------------------------------------------------------------------\n";
     cout << "------------------------------------------Cat3-----------------------------------------\n";
     cout << "---------------------------------------------------------------------------------------\n";
-    cout << "Name: " << cat3.getName() << endl;
-    cout << "Color: " << cat3.getColor() << endl;
-    cout << "Age: " << cat3.getAge() << endl;
-    cout << "Is cat fed: " << cat3.getIsCatFed() << endl;
-    cout << "Is cat petted: " << cat3.getIsCatPetted() << endl;
-    cout << endl;
+    careTaker.printCat(&cat3);
 
     // Cat3 methods
     cat3.getPetted();
     cat3.meow();
     cat3.purr();
     cout << endl;
-
-    // Attaching cat3
-    careTaker.attachCat(&cat3);
 
     // Feeding cat3
     cout << "Is " << cat3.getName() << " fed?" << endl;
