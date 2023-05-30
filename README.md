@@ -211,3 +211,23 @@
 - [Power.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Power.cpp)
 - [main.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/main.cpp)
 - [Result 07.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Result%2007.jpg)
+
+### Laboratorium 8
+
+### Laboratorium 8a
+
+![Model 08a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Model%2008a.jpg)
+
+![Sequence Diagram 08a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Sequence%20Diagram%2008a.jpg)
+
+- [Laboratorium](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a)
+- [Model 08a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Model%2008a.jpg)
+- [Sequence Diagram 08a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Sequence%20Diagram%2008a.jpg)
+- [Laboratorium 08a.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Laboratorium%2008a.uml)
+- [Laboratorium 08a.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Laboratorium%2008a.~ml)
+- [Shop.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Shop.h)
+- [Shop.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Shop.cpp)
+- [Product.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Product.h)
+- [Product.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Product.cpp)
+- [main.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/main.cpp)
+- [Result 08a.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2008/Lab%2008a/Result%2008a.jpg)
