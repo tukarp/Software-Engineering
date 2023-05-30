@@ -79,6 +79,7 @@ void Shop::closeShop() {
 
 void Shop::attachProduct(Product * product) {
     products.push_back(product);
+    cout << "Product " << product->getName() << " attached to " << name << endl;
 }
 
 void Shop::detachProduct(Product * product) {
@@ -88,6 +89,7 @@ void Shop::detachProduct(Product * product) {
             break;
         }
     }
+    cout << "Product " << product->getName() << " detached from " << name << endl;
 }
 
 void Shop::printProduct(Product * product) {

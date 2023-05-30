@@ -76,7 +76,7 @@ void CareTaker::goShopping() {
 
 void CareTaker::attachCat(Cat * cat) {
     cats.push_back(cat);
-    cout << "Cat " << cat->getName() << " attached to CareTaker!" << endl;
+    cout << "Cat " << cat->getName() << " attached to " << name << endl;
 }
 
 void CareTaker::detachCat(Cat * cat) {
@@ -86,7 +86,7 @@ void CareTaker::detachCat(Cat * cat) {
             break;
         }
     }
-    cout << "Cat " << cat->getName() << " detached from " << name << "!" << endl;
+    cout << "Cat " << cat->getName() << " detached from " << name << endl;
 }
 
 void CareTaker::printCat(Cat * cat) {

@@ -80,6 +80,7 @@ void Company::fireEmployee() {
 
 void Company::attachEmployee(Employee * employee) {
     employees.push_back(employee);
+    cout << "Employee " << employee->getFirstName() << " " << employee->getLastName << " attached to " << name << endl;
 }
 
 void Company::detachEmployee(Employee * employee) {
@@ -89,6 +90,7 @@ void Company::detachEmployee(Employee * employee) {
             break;
         }
     }
+    cout << "Employee " << employee->getFirstName() << " " << employee->getLastName << " detached from " << name << endl;
 }
 
 void Company::printEmployee(Employee * employee) {

@@ -80,6 +80,7 @@ void Company::fireEmployee() {
 
 void Company::attachShop(Shop * shop) {
     shops.push_back(shop);
+    cout << "Shop " << shop->getName() << " attached to " << name << endl;
 }
 
 void Company::detachShop(Shop * shop) {
@@ -89,6 +90,7 @@ void Company::detachShop(Shop * shop) {
             break;
         }
     }
+    cout << "Shop " << shop->getName() << " detached from " << name << endl;
 }
 
 void Company::printShop(Shop * shop) {
