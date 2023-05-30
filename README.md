@@ -188,3 +188,21 @@
 - [User.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/User.cpp)
 - [main.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/main.cpp)
 - [Result 06.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2006/Result%2006.jpg)
+
+### Laboratorium 7
+
+![Model 07](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Model%2007.jpg)
+
+- [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2007)
+- [Model 07.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Model%2007.jpg)
+- [Laboratorium 07.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Laboratorium%2007.uml)
+- [Laboratorium 07.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Laboratorium%2007.~ml)
+- [BernouliDiagram.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/BernouliDiagram.h)
+- [BernouliDiagram.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/BernouliDiagram.cpp)
+- [BinomialTheorem.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/BinomialTheorem.h)
+- [BinomialTheorem.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/BinomialTheorem.cpp)
+- [Factorial.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Factorial.h)
+- [Factorial.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Factorial.cpp)
+- [Power.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Power.h)
+- [Power.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Power.cpp)
+- [Result 07.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2007/Result%2007.jpg)
