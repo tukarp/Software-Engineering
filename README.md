@@ -164,7 +164,7 @@
 - [Laboratorium](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Lab%2005)
 - [Model 05c.jpg](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Model%2005c.jpg)
 - [Laboratorium 05c.uml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c.uml)
-- [Model 05c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c._ml_)
+- [Laboratorium 05c.~ml](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Lab%2005c._ml_)
 - [Building.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Building.h)
 - [Building.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Building.cpp)
 - [Shop.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Lab%2005/Shop.h)
