@@ -18,6 +18,7 @@
 - [Laboratorium 5](#laboratorium-5)
   - [Laboratorium 5c](#laboratorium-5c)
 - [Laboratorium 6](#laboratorium-6)
+- [Laboratorium 7](#laboratorium-7)
 
 # Laboratoria
 
