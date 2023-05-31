@@ -23,5 +23,5 @@ BernouliDiagram::~BernouliDiagram() {
 
 long double BernouliDiagram::bernouliDiagram(double p, int n, int k) {
     q = 1 - p;
-    return ((binomialTheoremPtr->binominalTheorem(n, k)) * (powerPtr->power(p, k)) * powerPtr->power(q, n - k));
+    return ((binomialTheoremPtr->binomialTheorem(n, k)) * (powerPtr->power(p, k)) * powerPtr->power(q, n - k));
 }

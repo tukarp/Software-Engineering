@@ -19,7 +19,7 @@ BinomialTheorem::~BinomialTheorem() {
     delete factorialPtr;
 }
 
-long double BinomialTheorem::binominalTheorem(int n, int k) {
+long double BinomialTheorem::binomialTheorem(int n, int k) {
     N = n - k;
     long NbyK = 1;
 
