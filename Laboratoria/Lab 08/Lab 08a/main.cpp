@@ -10,7 +10,7 @@ int main() {
     Shop * shop = new Shop("Lidl", "Supermarket", "Large", "8:00 - 22:00",
                            // Create flagship product
                            // Product parameters: name: string, quantity: int, composition: string, weight: float, expirationDate: string
-                           new Product("Flour", 100, "Wheat", 1.5, "01.01.2023"));
+                           new Product("Bread", 100, "Flour, water, yeast", 0.5, "2023-06-06"));
 
     // Print shop
     cout << "---------------------------------------------------------------------------------------\n";
