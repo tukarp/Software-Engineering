@@ -21,6 +21,8 @@
 - [Laboratorium 07](#laboratorium-07)
 - [Laboratorium 08](#laboratorium-08)
   - [Laboratorium 08a](#laboratorium-08a)
+  - [Laboratorium 08b](#laboratorium-08b)
+  - [Laboratorium 08c](#laboratorium-08c)
 
 # Laboratoria
 
