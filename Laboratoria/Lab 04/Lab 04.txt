@@ -1,3 +1,0 @@
-asocjacji skierowanej (wiele)
-agregacji zwykłej (wiele)
-agregacja całkowita (wiele)
