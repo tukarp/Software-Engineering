@@ -80,7 +80,7 @@
   - [Student.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2003/Laboratorium%2003b/Source/Student.h)
   - [Student.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2003/Laboratorium%2003b/Source/Student.cpp)
 
-### [Laboratorium 03c]()
+### [Laboratorium 03c](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Laboratorium%2003/Laboratorium%2003c)
 
 ![Model 03c](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2003/Laboratorium%2003c/Model%2003c.jpg)
 
@@ -210,13 +210,13 @@
   - [Power.h](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2007/Source/Power.h)
   - [Power.cpp](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2007/Source/Power.cpp)
 
-### [Laboratorium 08]()
+### [Laboratorium 08](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Laboratorium%2008)
 
-### [Laboratorium 08a]()
+### [Laboratorium 08a](https://github.com/tukarp/Software-Engineering/tree/main/Laboratoria/Laboratorium%2008/Laboratorium%2008a)
 
 ![Model 08a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2008/Laboratorium%2008a/Model%2008a.jpg)
 
-![Diagram sekwencji 08a]()
+![Diagram sekwencji 08a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2008/Laboratorium%2008a/Diagram%20sekwencji%2008a.jpg)
 
 - [Model 08a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2008/Laboratorium%2008a/Model%2008a.jpg)
 - [Diagram sekwencji 08a](https://github.com/tukarp/Software-Engineering/blob/main/Laboratoria/Laboratorium%2008/Laboratorium%2008a/Diagram%20sekwencji%2008a.jpg)
